@@ -1,0 +1,15 @@
+{
+    "name": "ecampusdev",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "development",
+    "workspaceFolder": "/workspace",
+    "extensions": [
+        "felixfbecker.php-pack",
+        "cweijan.vscode-mysql-client2",
+        "ms-azuretools.vscode-docker",
+        "donjayamanne.githistory",
+        "design4pro.workspace-manager",
+        "ms-dotnettools.vscode-dotnet-runtime"
+    ],
+    "appPort": [9080]
+}
